@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QL_Thu_Vien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|d:\\ql_thu_vien\\ql_thu_vien\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|solutionrelative:ql_thu_vien\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|D:\\QL_Thu_Vien\\ql_thu_vien\\fsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|solutionrelative:ql_thu_vien\\fsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|D:\\QL_Thu_Vien\\ql_thu_vien\\fsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|solutionrelative:ql_thu_vien\\fsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|d:\\ql_thu_vien\\ql_thu_vien\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|solutionrelative:ql_thu_vien\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|D:\\QL_Thu_Vien\\ql_thu_vien\\fphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|solutionrelative:ql_thu_vien\\fphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|D:\\QL_Thu_Vien\\ql_thu_vien\\fphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|solutionrelative:ql_thu_vien\\fphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|D:\\QL_Thu_Vien\\ql_thu_vien\\fdausach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623813A5-1F0E-4A15-A27E-D4A133302F12}|QL_Thu_Vien\\QL_Thu_Vien.csproj|solutionrelative:ql_thu_vien\\fdausach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\DBConnection.cs",
+              "RelativeDocumentMoniker": "QL_Thu_Vien\\DBConnection.cs",
+              "ToolTip": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\DBConnection.cs",
+              "RelativeToolTip": "QL_Thu_Vien\\DBConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:17:56.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\Login.cs",
+              "RelativeDocumentMoniker": "QL_Thu_Vien\\Login.cs",
+              "ToolTip": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\Login.cs [Design]",
+              "RelativeToolTip": "QL_Thu_Vien\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:57:44.937Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fphieumuon.cs",
+              "DocumentMoniker": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\fphieumuon.cs",
+              "RelativeDocumentMoniker": "QL_Thu_Vien\\fphieumuon.cs",
+              "ToolTip": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\fphieumuon.cs",
+              "RelativeToolTip": "QL_Thu_Vien\\fphieumuon.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAowA4BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:26:13.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fphieumuon.cs [Design]",
+              "DocumentMoniker": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\fphieumuon.cs",
+              "RelativeDocumentMoniker": "QL_Thu_Vien\\fphieumuon.cs",
+              "ToolTip": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\fphieumuon.cs [Design]",
+              "RelativeToolTip": "QL_Thu_Vien\\fphieumuon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:23:08.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fsinhvien.cs",
+              "DocumentMoniker": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\fsinhvien.cs",
+              "RelativeDocumentMoniker": "QL_Thu_Vien\\fsinhvien.cs",
+              "ToolTip": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\fsinhvien.cs",
+              "RelativeToolTip": "QL_Thu_Vien\\fsinhvien.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAAADsBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:31:38.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fDauSach.cs",
+              "DocumentMoniker": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\fDauSach.cs",
+              "RelativeDocumentMoniker": "QL_Thu_Vien\\fDauSach.cs",
+              "ToolTip": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\fDauSach.cs",
+              "RelativeToolTip": "QL_Thu_Vien\\fDauSach.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:48:39.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fsinhvien.cs [Design]",
+              "DocumentMoniker": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\fsinhvien.cs",
+              "RelativeDocumentMoniker": "QL_Thu_Vien\\fsinhvien.cs",
+              "ToolTip": "D:\\QL_Thu_Vien\\QL_Thu_Vien\\fsinhvien.cs [Design]",
+              "RelativeToolTip": "QL_Thu_Vien\\fsinhvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:32:16.631Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
